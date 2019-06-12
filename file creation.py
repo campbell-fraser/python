@@ -1,0 +1,5 @@
+file = open("testfile.txt","w")
+file.write("Hello World")
+file.write("\nThis is our new text file")
+file.write("\nand this is another line.")
+file.write("\nWhy? Because we can.")
